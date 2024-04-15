@@ -1,5 +1,5 @@
 # DSTU VPR 2022-2026
-DSTU VPR 2nd year 2nd semester
+Здесь собраны готовые материалы по обучения в Донском Государственном Техническом Университете на направлении "Програмная инженерия"
 
 
 Лабараторная №3 - [Working with a regular expression.docx](https://github.com/KharitonovNikita/Theory-of-automata-and-formal-languages/files/14945793/Working.with.a.regular.expression.docx)
