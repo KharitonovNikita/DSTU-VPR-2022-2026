@@ -1,4 +1,4 @@
-# Theory-of-automata-and-formal-languages
+# DSTU VPR 2022-2026
 DSTU VPR 2nd year 2nd semester
 
 
